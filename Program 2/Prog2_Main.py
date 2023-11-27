@@ -100,5 +100,4 @@ confirm_button = CTkButton(window_label,
                          width=300)
 confirm_button.place(relx=0.5, rely=0.4, anchor='center')
 
-
 root.mainloop()
